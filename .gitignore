@@ -1,0 +1,14 @@
+*.asv
+
+# Figure directories
+figures/
+
+# Com-lab specific
+com-lab/processing/
+com-lab/Measurements_Laboratory_COM.zip
+com-lab/EE4730_Laboratory_Communications_2023.pdf
+
+# Time-domain-lab specific
+time-domain-lab/EE4630Group1.zip
+time-domain-lab/Laboratory_Processing_TD_2023.pdf
+time-domain-lab/Time Domain Lab 2023.pdf
