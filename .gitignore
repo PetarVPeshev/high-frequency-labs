@@ -1,7 +1,8 @@
 *.asv
 
-# Figure directories
+# Figure & measurements directories
 figures/
+measurements/
 
 # Com-lab specific
 com-lab/processing/
